@@ -50,7 +50,7 @@ features_train_vectorized = vect.transform(features_train)
 from sklearn.linear_model import LogisticRegression
 
 
-model = LogisticRegression()
+model = LogisticRegression(max_iter=3000)
 
 model.fit(features_train_vectorized, labels_train)
 
