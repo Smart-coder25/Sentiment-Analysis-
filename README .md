@@ -28,7 +28,8 @@ Where
  b = Coefficieant  
  X = variable
 ## Check Score of model
-For checking effeciency of model we have used Confusion Matrix. It is show the effeciency in matrix form. 
+For checking effeciency of model we have used Confusion Matrix. It is show the effeciency in matrix form.  
+
 ![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Basic-Confusion-matrix.png)  
 **Sensitivity / True Positive Rate / Recall Sensitivity formula.**
 ![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/sensitivity.gif)
