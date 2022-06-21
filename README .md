@@ -11,7 +11,6 @@ All Information in the world can be broadly classified into mainly two categorie
 
 ## Working Diagram
 This diagram has explained, Steps invlove in sentiments analysis.  
-
 ![image](https://www.researchgate.net/profile/Xing-Fang-4/publication/316666447/figure/fig2/AS:566965632593920@1512186548861/Sentiment-Polarity-Categorization-Process.png)
 ## Demontration of project
 With help of attached video, we will able to unnderstood final output and desire output.
