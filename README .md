@@ -25,7 +25,9 @@ https://user-images.githubusercontent.com/66938605/174834094-8db8cd09-57f3-42ef-
 ## Logistic Regression Classification
 Logistic regression is a classification technique borrowed by machine learning from the field of statistics. Logistic Regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. The intention behind using logistic regression is to find the best fitting model to describe the relationship between the dependent and the independent variable.  
 
-![image](https://miro.medium.com/max/1200/1*Jg8YrW8EyPRI8TsEEHsIlw.gif)  
+![1_Jg8YrW8EyPRI8TsEEHsIlw](https://user-images.githubusercontent.com/66938605/174834723-c0f3fdf0-f157-4e9e-9541-0097226bfffa.gif)
+
+ 
 
 ### Formula used in Logistic Regression
 ![image](https://static.javatpoint.com/tutorial/machine-learning/images/linear-regression-vs-logistic-regression4.png)
