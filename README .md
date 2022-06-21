@@ -19,7 +19,8 @@ With help of attached video, we will able to unnderstood final output and desire
 
 
 ## Logistic Regression Classification
-Logistic regression is a classification technique borrowed by machine learning from the field of statistics. Logistic Regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. The intention behind using logistic regression is to find the best fitting model to describe the relationship between the dependent and the independent variable.
+Logistic regression is a classification technique borrowed by machine learning from the field of statistics. Logistic Regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. The intention behind using logistic regression is to find the best fitting model to describe the relationship between the dependent and the independent variable.  
+
 ![image](https://miro.medium.com/max/1200/1*Jg8YrW8EyPRI8TsEEHsIlw.gif)  
 
 ### Formula used in Logistic Regression
