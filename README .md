@@ -10,7 +10,8 @@ Customer sentiment analysis is the automated process of discovering emotions in 
 All Information in the world can be broadly classified into mainly two categories, facts and opinions. Facts are objective statements about entities and worldly events. On the other hand opinions are subjective statements that reflect people’s sentiments or perceptions about the entities and events. Maximum amount of existing research on text and information processing is focused on mining and getting the factual information from the text or information.
 
 ## Working Diagram
-This diagram has explained, Steps invlove in sentiments analysis .
+This diagram has explained, Steps invlove in sentiments analysis.  
+
 ![image](https://www.researchgate.net/profile/Xing-Fang-4/publication/316666447/figure/fig2/AS:566965632593920@1512186548861/Sentiment-Polarity-Categorization-Process.png)
 ## Demontration of project
 With help of attached video, we will able to unnderstood final output and desire output.
