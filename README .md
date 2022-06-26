@@ -38,12 +38,14 @@ Where
 For checking effeciency of model we have used Confusion Matrix. It is show the effeciency in matrix form.  
 
 ![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Basic-Confusion-matrix.png)  
-**Sensitivity / True Positive Rate / Recall Sensitivity formula.**
+**Sensitivity / True Positive Rate / Recall Sensitivity formula.** 
+
 ![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/sensitivity.gif)
 Sensitivity tells us what proportion of the positive class got correctly classified.
 
 **Specificity / True Negative Rate**  
-**Specificity formula**
+**Specificity formula** 
+
 ![image](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Specificity.gif)
 
 Specificity tells us what proportion of the negative class got correctly classified.
